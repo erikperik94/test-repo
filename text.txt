@@ -1,3 +1,4 @@
 hello
 my name is erik
 and this is a new branch
+updated text.txt
